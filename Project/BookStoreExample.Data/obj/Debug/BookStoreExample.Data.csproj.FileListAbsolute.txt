@@ -1,0 +1,12 @@
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.Data\bin\Debug\BookStoreExample.Data.dll.config
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.Data\bin\Debug\BookStoreExample.Data.dll
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.Data\bin\Debug\BookStoreExample.Data.pdb
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.Data\bin\Debug\EntityFramework.dll
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.Data\bin\Debug\EntityFramework.xml
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.Data\obj\Debug\BookStoreExample.Data.csprojAssemblyReference.cache
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.Data\obj\Debug\BookStoreExample.Data.csproj.CoreCompileInputs.cache
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.Data\obj\Debug\BookStoreExample.Data.csproj.CopyComplete
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.Data\obj\Debug\BookStoreExample.Data.dll
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.Data\obj\Debug\BookStoreExample.Data.pdb

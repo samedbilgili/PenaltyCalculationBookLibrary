@@ -1,0 +1,15 @@
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.BusinessLayer\bin\Debug\BookStoreExample.BusinessLayer.dll.config
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.BusinessLayer\bin\Debug\BookStoreExample.BusinessLayer.dll
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.BusinessLayer\bin\Debug\BookStoreExample.BusinessLayer.pdb
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.BusinessLayer\bin\Debug\BookStoreExample.Data.dll
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.BusinessLayer\bin\Debug\BookStoreExample.Data.pdb
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.BusinessLayer\bin\Debug\BookStoreExample.Data.dll.config
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.BusinessLayer\obj\Debug\BookStoreExample.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.BusinessLayer\obj\Debug\BookStoreExample.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.BusinessLayer\obj\Debug\BookStoreExample.BusinessLayer.csproj.CopyComplete
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.BusinessLayer\obj\Debug\BookStoreExample.BusinessLayer.dll
+C:\Users\Samed\source\repos\BookStoreExample\BookStoreExample.BusinessLayer\obj\Debug\BookStoreExample.BusinessLayer.pdb

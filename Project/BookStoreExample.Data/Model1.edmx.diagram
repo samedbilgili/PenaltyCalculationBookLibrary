@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="c96058be431d4253b10d39fdef8bd33c" Name="Diagram1" ZoomLevel="86">
+        <EntityTypeShape EntityType="BookStoreExampleModel.Country" Width="1.5" PointX="0.75" PointY="2.5" />
+        <EntityTypeShape EntityType="BookStoreExampleModel.CountryCustomHolidayDay" Width="1.5" PointX="3" PointY="1.125" />
+        <EntityTypeShape EntityType="BookStoreExampleModel.CountryHolidayDayOfWeek" Width="1.5" PointX="3" PointY="3.625" />
+        <EntityTypeShape EntityType="BookStoreExampleModel.sysdiagram" Width="1.5" PointX="5.75" PointY="4.75" />
+        <AssociationConnector Association="BookStoreExampleModel.FK_CountryCustomHolidayDays_Countries" />
+        <AssociationConnector Association="BookStoreExampleModel.FK_CountryHolidayDayOfWeek_Countries" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
